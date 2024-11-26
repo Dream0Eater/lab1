@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-cout>>"Hello Class";
+cout<<"Hello Class";
 
 }
